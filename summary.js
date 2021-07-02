@@ -32,7 +32,7 @@ const run = (dir) => {
   let md = '';
   store.forEach((item) => {
     md += `\n ## ${item.fullPath} \n`
-    md +=  item.contents + '\n'
+    md +=  '```\n' + item.contents + '\n```'
   })
   // fs.writeFileSync('./gradle-code.md', md);
   fs.writeFileSync('./README.md', md);

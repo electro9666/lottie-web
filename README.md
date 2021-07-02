@@ -1,5 +1,6 @@
 
  ## /json/animation.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -105,8 +106,9 @@
   }
 }
 
-
+```
  ## /json/effects/angle.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -148,8 +150,9 @@
   }
 }
 
-
+```
  ## /json/effects/checkBox.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -191,8 +194,9 @@
   }
 }
 
-
+```
  ## /json/effects/color.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -234,15 +238,17 @@
   }
 }
 
-
+```
  ## /json/effects/customValue.json 
+```
 {
 	"$schema": "http://json-schema.org/draft-04/schema#",
 	"type": "object"
 }
 
-
+```
  ## /json/effects/dropDown.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -284,8 +290,9 @@
   }
 }
 
-
+```
  ## /json/effects/fill.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -342,8 +349,9 @@
   }
 }
 
-
+```
  ## /json/effects/group.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -390,8 +398,9 @@
   }
 }
 
-
+```
  ## /json/effects/index.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -444,8 +453,9 @@
   ]
 }
 
-
+```
  ## /json/effects/layer.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -484,12 +494,14 @@
   }
 }
 
-
+```
  ## /json/effects/noValue.json 
+```
 {}
 
-
+```
  ## /json/effects/point.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -534,8 +546,9 @@
   }
 }
 
-
+```
  ## /json/effects/proLevels.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -667,8 +680,9 @@
   }
 }
 
-
+```
  ## /json/effects/slider.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -710,8 +724,9 @@
   }
 }
 
-
+```
  ## /json/effects/stroke.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -780,8 +795,9 @@
   }
 }
 
-
+```
  ## /json/effects/tint.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -826,8 +842,9 @@
   }
 }
 
-
+```
  ## /json/effects/tritone.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -875,8 +892,9 @@
   }
 }
 
-
+```
  ## /json/helpers/blendMode.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "number",
@@ -949,8 +967,9 @@
   "default": 0
 }
 
-
+```
  ## /json/helpers/boolean.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "number",
@@ -966,8 +985,9 @@
   ]
 }
 
-
+```
  ## /json/helpers/composite.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "number",
@@ -984,8 +1004,9 @@
   "default": 1
 }
 
-
+```
  ## /json/helpers/lineCap.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "number",
@@ -1006,8 +1027,9 @@
   "default": 2
 }
 
-
+```
  ## /json/helpers/lineJoin.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "number",
@@ -1028,8 +1050,9 @@
   "default": 2
 }
 
-
+```
  ## /json/helpers/mask.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -1111,8 +1134,9 @@
   }
 }
 
-
+```
  ## /json/helpers/testBased.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "number",
@@ -1137,8 +1161,9 @@
   "default": 1
 }
 
-
+```
  ## /json/helpers/textGrouping.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "number",
@@ -1163,8 +1188,9 @@
   "default": 1
 }
 
-
+```
  ## /json/helpers/textShape.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "number",
@@ -1197,8 +1223,9 @@
   "default": 1
 }
 
-
+```
  ## /json/helpers/transform.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -1346,8 +1373,9 @@
   }
 }
 
-
+```
  ## /json/layers/image.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -1486,8 +1514,9 @@
   }
 }
 
-
+```
  ## /json/layers/null.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -1592,8 +1621,9 @@
   }
 }
 
-
+```
  ## /json/layers/preComp.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -1741,8 +1771,9 @@
   }
 }
 
-
+```
  ## /json/layers/shape.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -1925,8 +1956,9 @@
   }
 }
 
-
+```
  ## /json/layers/solid.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -2072,8 +2104,9 @@
   }
 }
 
-
+```
  ## /json/layers/text.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -2638,8 +2671,9 @@
   }
 }
 
-
+```
  ## /json/properties/doubleKeyframe.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -2690,8 +2724,9 @@
     }
   }
 }
-
+```
  ## /json/properties/multiDimensional.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -2714,8 +2749,9 @@
   }
 }
 
-
+```
  ## /json/properties/multiDimensionalKeyframed.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -2752,8 +2788,9 @@
   }
 }
 
-
+```
  ## /json/properties/offsetKeyframe.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -2807,8 +2844,9 @@
     }
   }
 }
-
+```
  ## /json/properties/shape.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -2837,8 +2875,9 @@
   }
 }
 
-
+```
  ## /json/properties/shapeKeyframed.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -2875,8 +2914,9 @@
   }
 }
 
-
+```
  ## /json/properties/shapeProp.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema",
   "type": "object",
@@ -2927,8 +2967,9 @@
     }
   }
 }
-
+```
  ## /json/properties/shapePropKeyframe.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -2983,8 +3024,9 @@
     }
   }
 }
-
+```
  ## /json/properties/value.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -3007,8 +3049,9 @@
   }
 }
 
-
+```
  ## /json/properties/valueKeyframe.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema",
   "type": "object",
@@ -3042,8 +3085,9 @@
     }
   }
 }
-
+```
  ## /json/properties/valueKeyframed.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -3070,8 +3114,9 @@
   }
 }
 
-
+```
  ## /json/shapes/ellipse.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -3127,8 +3172,9 @@
   }
 }
 
-
+```
  ## /json/shapes/fill.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -3178,8 +3224,9 @@
   }
 }
 
-
+```
  ## /json/shapes/gFill.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -3288,8 +3335,9 @@
   }
 }
 
-
+```
  ## /json/shapes/gStroke.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -3436,8 +3484,9 @@
   }
 }
 
-
+```
  ## /json/shapes/group.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -3528,8 +3577,9 @@
   }
 }
 
-
+```
  ## /json/shapes/merge.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -3558,8 +3608,9 @@
   }
 }
 
-
+```
  ## /json/shapes/rect.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -3627,8 +3678,9 @@
   }
 }
 
-
+```
  ## /json/shapes/repeater.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -3701,8 +3753,9 @@
   }
 }
 
-
+```
  ## /json/shapes/round.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -3739,8 +3792,9 @@
   }
 }
 
-
+```
  ## /json/shapes/shape.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -3782,8 +3836,9 @@
   }
 }
 
-
+```
  ## /json/shapes/star.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -3918,8 +3973,9 @@
   }
 }
 
-
+```
  ## /json/shapes/stroke.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -4007,8 +4063,9 @@
   }
 }
 
-
+```
  ## /json/shapes/transform.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -4112,8 +4169,9 @@
   }
 }
 
-
+```
  ## /json/shapes/trim.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -4176,8 +4234,9 @@
   }
 }
 
-
+```
  ## /json/sources/chars.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -4244,8 +4303,9 @@
   }
 }
 
-
+```
  ## /json/sources/image.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -4278,8 +4338,9 @@
   }
 }
 
-
+```
  ## /json/sources/precomp.json 
+```
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
@@ -4320,3 +4381,4 @@
   }
 }
 
+```
